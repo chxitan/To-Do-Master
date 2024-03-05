@@ -4,7 +4,7 @@ info:
   description: API to interact with Notion for querying database, creating pages and updating pages
   version: 1.0.0
 servers:
-  - url: <填入自己的url>
+  - url: https://to-do-master-lp5w.onrender.com
     description: Main server
 paths:
   /:
